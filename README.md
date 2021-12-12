@@ -2,6 +2,11 @@ Versão em Protuguês | [English Version](https://github.com/alex-girao/springbo
 # Projetos Spring Boot
 Catálogo com os projetos Spring Boot do meu repositório
 
+#### Spring Boot Forum
+* [Repositório](https://github.com/alex-girao/forum).
+* Tecnologias: SpringBoot 2.5.x, JPA, H2 Database, Lombok, Actuator, Swagger/SpringFox)
+* Outros detalhes: Código para monitoramento com Spring Boot Admin comentado.
+
 #### Spring Boot, Kafka e Docker
 * [Repositório](https://github.com/alex-girao/springboot-kafka-docker).
 * Tecnologias: SpringBoot 2.4.x, Docker e Kafka
