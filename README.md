@@ -4,7 +4,7 @@ Catálogo com os projetos Spring Boot do meu repositório
 
 #### Spring Boot Forum
 * [Repositório](https://github.com/alex-girao/forum).
-* Tecnologias: SpringBoot 2.5.x, JPA, H2 Database, Lombok, Actuator e Swagger/SpringFox
+* Tecnologias: SpringBoot 2.5.x, JPA, H2 Database, Lombok, Actuator, Swagger/SpringFox e JUnit
 * Outros detalhes: Código para monitoramento com Spring Boot Admin comentado.
 
 #### Spring Boot, Kafka e Docker
